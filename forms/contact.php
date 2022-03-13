@@ -27,8 +27,8 @@
   
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
-    'username' => 'cto@mcafeelab.com',
-    'password' => 'bdkgqturpoudosey',
+    'username' => 'quinton.jones@gmail.com  ',
+    'password' => 'bcdsogrnriqkmvli',
     'port' => '587'
   );
   */
